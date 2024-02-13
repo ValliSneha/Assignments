@@ -12,6 +12,7 @@ public void bedRoom()
 		mh.bedRoom();
 		System.out.println(pp.swing);
 		System.out.println(pp.playground);
+		System.out.println("End of the program");
 		
 
 	}
